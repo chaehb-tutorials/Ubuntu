@@ -10,4 +10,4 @@
     # notice the your home directory path
 	excludesfile = /Users/chaehb/.gitignore
 [init]
-	defaultBranch = master
+	defaultBranch = main
